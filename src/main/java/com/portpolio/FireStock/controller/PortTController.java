@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @Slf4j
 @RestController
-@RequestMapping("/portpolio")
+@RequestMapping("/api/v1//portpolio")
 public class PortTController {
 
     @Autowired
